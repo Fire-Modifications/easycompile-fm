@@ -1,7 +1,7 @@
 {
-  "name": "bytenode",
-  "version": "1.3.4",
-  "description": "A minimalist bytecode compiler for Node.js",
+  "name": "easycompile",
+  "version": "1.0.0",
+  "description": "A minimalist bytecode compiler for Node.js - Modified for EasyCompile",
   "main": "lib/index.js",
   "bin": "lib/cli.js",
   "types": "lib/index.d.ts",

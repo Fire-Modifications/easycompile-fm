@@ -1,6 +1,6 @@
 {
   "name": "easycompile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimalist bytecode compiler for Node.js - Modified for EasyCompile",
   "main": "lib/index.js",
   "bin": "lib/cli.js",
